@@ -1,4 +1,5 @@
 ### Hi there 👋
+
 I'm Timur Gainullin, a junior backend developer with a passion for competitive programming and a proven track record of success 🚀. As a 3rd year student at Innopolis University 🎓, I'm always expanding my skills and exploring new interests in AI 🤖, microservices 🐳 and backend development in Go🐹.
 
 Check out some of my projects 📚:
@@ -7,8 +8,7 @@ Check out some of my projects 📚:
 - Backend Control System 🖥: [github.com/Tumypmyp/backend-control-system](https://github.com/Tumypmyp/backend-control-system)
 - Telegram Chess Bot 🤖: [github.com/Tumypmyp/chess](https://github.com/Tumypmyp/chess)
 
-If you're interested in collaborating or learning more about my work, feel free to reach out to me on Gmail 📩 or Telegram 💬. Thanks for stopping by!
-
+If you're interested in collaborating or learning more about my work, feel free to reach out to me on [Telegram](https://t.me/Tumypmyp) 💬. Thanks for stopping by!
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Tumypmyp&show_icons=true&hide=contribs&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Tumypmyp&show_icons=true&hide=contribs&count_private=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
