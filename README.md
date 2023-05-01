@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm Timur Gainullin, a junior backend developer with a passion for competitive programming and a proven track record of success 🚀. As a 3rd year student at Innopolis University 🎓, I'm always expanding my skills and exploring new interests in AI 🤖, microservices 🐳 and backend development in Go🐹.
+<!-- <img src="gopher_dance.gif" alt="Gopher Dance" width="20" height="20"> -->
 
 Check out some of my projects 📚:
 
